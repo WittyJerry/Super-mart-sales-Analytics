@@ -3,7 +3,9 @@ Analysis of Super-mart sales analytics
 This is my first project assignment as a Data Science Intern at CollegeRanker, India. 
 
 Project title: Super-mart Sales Analytics.
+
 The dataset was provided by the company.
+
 The primamry aim was to perform data cleaning and exploration data analysis on the dataset
 
 Tasks:
