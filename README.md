@@ -6,7 +6,7 @@ Project title: Super-mart Sales Analytics.
 
 The dataset was provided by the company.
 
-The primamry aim was to perform data cleaning and exploration data analysis on the dataset
+The primary aim was to perform data cleaning and exploration data analysis on the dataset
 
 Tasks:
 
