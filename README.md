@@ -1,5 +1,6 @@
 # Super-mart-sales-Analytics
-Analysis of Super-mart sales analytics
+Analysis of Super-mart sales analytics.
+
 This is my first project assignment as a Data Science Intern at CollegeRanker, India. 
 
 Project title: Super-mart Sales Analytics.
